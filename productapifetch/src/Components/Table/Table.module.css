@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding:0;
+     background-color:rgb(255, 255, 255);
+ 
+ }
+ .title{
+     text-align: center;
+ }
+ .table {
+     width: 100%;
+     border-collapse: collapse;
+ }
+ 
+ .row {
+     /* border: 1px solid #000000; */
+     padding: 8px;
+ }
+ 
+ th, td {
+     padding: 12px;
+     text-align: left;
+     border-bottom:2px solid black;
+     
+ }
+ 
